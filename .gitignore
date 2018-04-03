@@ -79,3 +79,11 @@ ionic.config.json
 package.json
 tsconfig.json
 tslint.json
+src/app/
+src/assets/
+src/assets/
+src/pages/
+src/theme/
+src/index.html
+src/manifest.json
+src/service-worker.js
