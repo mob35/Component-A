@@ -1,2 +1,0 @@
-# Component-A
-Component-A
