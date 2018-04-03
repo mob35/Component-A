@@ -75,3 +75,7 @@ $RECYCLE.BIN/
 .env
 
 .editorconfig
+ionic.config.json
+package.json
+tsconfig.json
+tslint.json
